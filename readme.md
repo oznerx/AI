@@ -1,2 +1,4 @@
-Los archivos a revisar son:
-- Portafolio_de_implementacion/linreg_no_framework.ipynb
+Rutas para la revisión de actividades
+
+Machine Learning:
+- Actividad 1: Portafolio_de_implementacion/Machine Learning/Without Framework
